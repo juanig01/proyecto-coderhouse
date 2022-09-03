@@ -1,0 +1,42 @@
+.formulario {
+  display: grid;
+  justify-content: center;
+}
+
+#nota1 {
+  width: 150px;
+  margin-top: 20px;
+}
+
+#nota2 {
+  width: 150px;
+  margin-top: 20px;
+}
+
+#nota3 {
+  width: 150px;
+  margin-top: 20px;
+}
+
+#nombre {
+  width: 150px;
+  margin-top: 20px;
+}
+
+#sumbit {
+  width: 150px;
+
+  margin-top: 20px;
+}
+
+#boton {
+
+  width: 150px;
+
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
